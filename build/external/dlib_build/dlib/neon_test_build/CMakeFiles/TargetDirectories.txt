@@ -1,3 +1,0 @@
-/home/admin/Projects/facedetection/build/external/dlib_build/dlib/neon_test_build/CMakeFiles/rebuild_cache.dir
-/home/admin/Projects/facedetection/build/external/dlib_build/dlib/neon_test_build/CMakeFiles/edit_cache.dir
-/home/admin/Projects/facedetection/build/external/dlib_build/dlib/neon_test_build/CMakeFiles/neon_test.dir

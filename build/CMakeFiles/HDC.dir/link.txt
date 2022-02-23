@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG -flto -fno-fat-lto-objects CMakeFiles/HDC.dir/src/main.cpp.o -o HDC  external/fmt/libfmt.a external/spdlog/libspdlog.a 
