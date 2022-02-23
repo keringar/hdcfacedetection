@@ -1,0 +1,70 @@
+Determining if the strtod_l exist failed with the following output:
+Change Dir: /home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_56ddb/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_56ddb.dir/build.make CMakeFiles/cmTC_56ddb.dir/build
+gmake[1]: Entering directory '/home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_56ddb.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_56ddb.dir/CheckSymbolExists.c.o -c /home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘strtod_l’ undeclared (first use in this function); did you mean ‘strtoull’?
+    8 |   return ((int*)(&strtod_l))[argc];
+      |                   ^~~~~~~~
+      |                   strtoull
+/home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+gmake[1]: *** [CMakeFiles/cmTC_56ddb.dir/build.make:85: CMakeFiles/cmTC_56ddb.dir/CheckSymbolExists.c.o] Error 1
+gmake[1]: Leaving directory '/home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:140: cmTC_56ddb/fast] Error 2
+
+
+File /home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strtod_l
+  return ((int*)(&strtod_l))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the function cblas_ddot exists failed with the following output:
+Change Dir: /home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_dd10a/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_dd10a.dir/build.make CMakeFiles/cmTC_dd10a.dir/build
+gmake[1]: Entering directory '/home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dd10a.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=cblas_ddot -o CMakeFiles/cmTC_dd10a.dir/CheckFunctionExists.c.o -c /usr/share/cmake-3.18/Modules/CheckFunctionExists.c
+Linking C executable cmTC_dd10a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dd10a.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=cblas_ddot -rdynamic CMakeFiles/cmTC_dd10a.dir/CheckFunctionExists.c.o -o cmTC_dd10a 
+/usr/bin/ld: CMakeFiles/cmTC_dd10a.dir/CheckFunctionExists.c.o: in function `main':
+CheckFunctionExists.c:(.text+0x14): undefined reference to `cblas_ddot'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_dd10a.dir/build.make:106: cmTC_dd10a] Error 1
+gmake[1]: Leaving directory '/home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:140: cmTC_dd10a/fast] Error 2
+
+
+
+Determining if the function sgemm_ exists failed with the following output:
+Change Dir: /home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_4cadf/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_4cadf.dir/build.make CMakeFiles/cmTC_4cadf.dir/build
+gmake[1]: Entering directory '/home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4cadf.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=sgemm_ -o CMakeFiles/cmTC_4cadf.dir/CheckFunctionExists.c.o -c /usr/share/cmake-3.18/Modules/CheckFunctionExists.c
+Linking C executable cmTC_4cadf
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4cadf.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=sgemm_ -rdynamic CMakeFiles/cmTC_4cadf.dir/CheckFunctionExists.c.o -o cmTC_4cadf 
+/usr/bin/ld: CMakeFiles/cmTC_4cadf.dir/CheckFunctionExists.c.o: in function `main':
+CheckFunctionExists.c:(.text+0x14): undefined reference to `sgemm_'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_4cadf.dir/build.make:106: cmTC_4cadf] Error 1
+gmake[1]: Leaving directory '/home/admin/Projects/facedetection/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:140: cmTC_4cadf/fast] Error 2
+
+
+
