@@ -53,7 +53,7 @@ cmake_dependent_option(${PROJECT_NAME}_BUILD_TESTS
 )
 
 # External dependencies
-add_subdirectory(external EXCLUDE_FROM_ALL)
+add_subdirectory(external)
 
 # It is always easier to navigate in an IDE when projects are organized in folders.
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
@@ -91,13 +91,14 @@ target_include_directories(HDC PRIVATE
 target_link_libraries(HDC PRIVATE
     fmt::fmt
     spdlog::spdlog
+    dlib::dlib
 )
 
 # Require c++17, this is better than setting CMAKE_CXX_STANDARD since it won't pollute other targets
 target_compile_features(HDC PRIVATE cxx_std_17)
 
 # CMake scripts extensions
-target_set_warnings(HDC ENABLE ALL AS_ERROR ALL DISABLE Annoying) # Helper that can set default warning flags for you
+target_set_warnings(HDC ENABLE ALL DISABLE Annoying) # Helper that can set default warning flags for you
 target_enable_lto(HDC optimized) #enable lto if available for non-debug configurations
 copy_dlls_for_debug(HDC "" "") # Copy dependencies next to the executable (DLLs for example)
 

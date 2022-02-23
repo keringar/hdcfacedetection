@@ -24,7 +24,7 @@ target_include_directories(
 add_library(doctest::doctest ALIAS doctest)
 target_compile_features(doctest INTERFACE cxx_std_11)
 
-add_subdirectory(dlib-19.23 dlib_build)
+add_subdirectory(./dlib-19.23 dlib_build)
 
 #Add new external (non-interface) targets to this list
 set_target_properties(fmt PROPERTIES FOLDER "external")
