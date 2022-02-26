@@ -1,0 +1,19 @@
+<map id="bmtimer.h" name="bmtimer.h">
+<area shape="rect" id="node1" title="Timing utilities for benchmarking (internal)" alt="" coords="1051,5,1131,32"/>
+<area shape="rect" id="node2" href="$inv__list_8cpp.html" title="Utility to compress test sets of inverted lists." alt="" coords="5,80,93,107"/>
+<area shape="rect" id="node3" href="$sample11_8cpp.html" title="Example: bvector&lt;&gt; bit&#45;counting techniques analysis." alt="" coords="118,80,221,107"/>
+<area shape="rect" id="node4" href="$sample12_8cpp.html" title="Example: bvector&lt;&gt; analysis of bit setting methods." alt="" coords="245,80,347,107"/>
+<area shape="rect" id="node5" href="$strsvsample02a_8cpp.html" title="Example: str_sparse_vector&lt;&gt; sort example." alt="" coords="372,80,511,107"/>
+<area shape="rect" id="node6" href="$strsvsample07_8cpp.html" title="Example: Succinct container for strings, bulk search using scanner pipeline." alt="" coords="535,80,667,107"/>
+<area shape="rect" id="node7" href="$svsample06_8cpp.html" title="Example: sparse_vector&lt;&gt; scan search (non&#45;ordered set functionality)" alt="" coords="692,80,809,107"/>
+<area shape="rect" id="node8" href="$xsample01_8cpp.html" title="Example: Example: memory consumption techniques." alt="" coords="834,80,945,107"/>
+<area shape="rect" id="node9" href="$xsample02_8cpp.html" title="Example: sparse_vector&lt;&gt; used for counting sort / historgam construction." alt="" coords="969,80,1079,107"/>
+<area shape="rect" id="node10" href="$xsample03_8cpp.html" title="Example: SNP search in human genome." alt="" coords="1103,80,1214,107"/>
+<area shape="rect" id="node11" href="$xsample04_8cpp.html" title="Example: DNA substring search." alt="" coords="1238,80,1349,107"/>
+<area shape="rect" id="node12" href="$xsample04a_8cpp.html" title="Example: DNA index construction." alt="" coords="1373,80,1491,107"/>
+<area shape="rect" id="node13" href="$xsample05_8cpp.html" title="Example: Example on how to use bit&#45;transposed string sparse vector." alt="" coords="1515,80,1626,107"/>
+<area shape="rect" id="node14" href="$xsample06_8cpp.html" title="Example: Use of sparse vector for compressed DNA strings." alt="" coords="1650,80,1761,107"/>
+<area shape="rect" id="node15" href="$xsample07_8cpp.html" title="Example: Use of bvector&lt;&gt; for k&#45;mer fingerprint K should be short, no minimizers here." alt="" coords="1785,80,1895,107"/>
+<area shape="rect" id="node16" href="$xsample07a_8cpp.html" title="Example: Use of bvector&lt;&gt; for k&#45;mer fingerprint K should be short, no minimizers here (k &lt; 24)" alt="" coords="1920,80,2037,107"/>
+<area shape="rect" id="node17" href="$xsample09_8cpp.html" title="Example: Use succinct vectors for histogram construction." alt="" coords="2062,80,2173,107"/>
+</map>

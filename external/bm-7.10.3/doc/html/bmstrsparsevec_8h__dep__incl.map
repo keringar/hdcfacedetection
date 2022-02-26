@@ -1,0 +1,12 @@
+<map id="bmstrsparsevec.h" name="bmstrsparsevec.h">
+<area shape="rect" id="node1" title="string sparse vector based on bit&#45;transposed matrix" alt="" coords="640,5,767,32"/>
+<area shape="rect" id="node2" href="$strsvsample01_8cpp.html" title="Example: str_sparse_vector&lt;&gt; set values, optimize memory." alt="" coords="5,80,137,107"/>
+<area shape="rect" id="node3" href="$strsvsample02_8cpp.html" title="Example: str_sparse_vector&lt;&gt; insertion sort example." alt="" coords="161,80,293,107"/>
+<area shape="rect" id="node4" href="$strsvsample02a_8cpp.html" title="Example: str_sparse_vector&lt;&gt; sort example." alt="" coords="318,80,457,107"/>
+<area shape="rect" id="node5" href="$strsvsample03_8cpp.html" title="Example: str_sparse_vector&lt;&gt; back insert iterator example." alt="" coords="481,80,613,107"/>
+<area shape="rect" id="node6" href="$strsvsample04_8cpp.html" title="Example: str_sparse_vector&lt;&gt; how to work with NULL values." alt="" coords="637,80,769,107"/>
+<area shape="rect" id="node7" href="$strsvsample05_8cpp.html" title="Example: str_sparse_vector&lt;&gt; gather deserialization example." alt="" coords="793,80,925,107"/>
+<area shape="rect" id="node8" href="$strsvsample06_8cpp.html" title="Example: Succinct container iterator for (substring), search, mismatch." alt="" coords="949,80,1081,107"/>
+<area shape="rect" id="node9" href="$strsvsample07_8cpp.html" title="Example: Succinct container for strings, bulk search using scanner pipeline." alt="" coords="1105,80,1237,107"/>
+<area shape="rect" id="node10" href="$xsample05_8cpp.html" title="Example: Example on how to use bit&#45;transposed string sparse vector." alt="" coords="1261,80,1372,107"/>
+</map>

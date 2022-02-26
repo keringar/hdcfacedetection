@@ -1,0 +1,6 @@
+<map id="bm::compute_sim_matrix_plan_builder&lt; BV &gt;::task_batch" name="bm::compute_sim_matrix_plan_builder&lt; BV &gt;::task_batch">
+<area shape="rect" id="node1" title=" " alt="" coords="5,261,217,303"/>
+<area shape="rect" id="node2" href="$classbm_1_1task__batch.html" title=" " alt="" coords="25,171,198,212"/>
+<area shape="rect" id="node3" href="$classbm_1_1task__batch__base.html" title="Interface definition (base class) for a group of tasks (batch)" alt="" coords="33,5,179,32"/>
+<area shape="rect" id="node4" href="$classbm_1_1task__batch.html" title="Basic implementation for collection of tasks for parallel execution." alt="" coords="128,81,311,108"/>
+</map>

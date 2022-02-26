@@ -1,0 +1,12 @@
+<map id="bmxor.h" name="bmxor.h">
+<area shape="rect" id="node1" title="Functions and utilities for XOR filters (internal)" alt="" coords="214,5,283,32"/>
+<area shape="rect" id="node2" href="$bmdef_8h.html" title="Definitions(internal)" alt="" coords="165,155,234,181"/>
+<area shape="rect" id="node6" href="$bmutil_8h.html" title="Bit manipulation primitives (internal)" alt="" coords="257,80,325,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,229,65,256"/>
+<area shape="rect" id="node4" title=" " alt="" coords="89,229,155,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="179,229,244,256"/>
+<area shape="rect" id="node7" href="$bmconst_8h.html" title="Constants, lookup tables and typedefs." alt="" coords="258,155,341,181"/>
+<area shape="rect" id="node10" title=" " alt="" coords="365,155,455,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="269,229,330,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="355,229,433,256"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="bmaggregator.h" name="bmaggregator.h">
+<area shape="rect" id="node1" title="Algorithms for fast aggregation of N bvectors." alt="" coords="220,5,332,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,67,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="91,80,157,107"/>
+<area shape="rect" id="node4" href="$bmfunc_8h.html" title="Bit manipulation primitives (internal)" alt="" coords="181,80,257,107"/>
+<area shape="rect" id="node7" href="$bmdef_8h.html" title="Definitions(internal)" alt="" coords="336,229,405,256"/>
+<area shape="rect" id="node16" href="$bmalgo__impl_8h.html" title="Algorithms for bvector&lt;&gt;" alt="" coords="281,80,388,107"/>
+<area shape="rect" id="node17" title=" " alt="" coords="463,80,547,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="7,155,87,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="111,155,193,181"/>
+<area shape="rect" id="node11" href="$bmutil_8h.html" title="Bit manipulation primitives (internal)" alt="" coords="218,155,286,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="254,304,314,331"/>
+<area shape="rect" id="node9" title=" " alt="" coords="338,304,403,331"/>
+<area shape="rect" id="node10" title=" " alt="" coords="427,304,493,331"/>
+<area shape="rect" id="node12" href="$bmconst_8h.html" title="Constants, lookup tables and typedefs." alt="" coords="105,229,188,256"/>
+<area shape="rect" id="node15" title=" " alt="" coords="212,229,303,256"/>
+<area shape="rect" id="node13" title=" " alt="" coords="48,304,109,331"/>
+<area shape="rect" id="node14" title=" " alt="" coords="134,304,213,331"/>
+</map>

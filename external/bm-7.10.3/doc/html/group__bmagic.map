@@ -1,0 +1,7 @@
+<map id="BitMagic Library" name="BitMagic Library">
+<area shape="rect" id="node1" title="BitMagic C++ Library For more information please visit: http://bitmagic.io." alt="" coords="5,87,121,112"/>
+<area shape="rect" id="node2" href="$group__bmtasks.html" title="Task parallel programming compatible with different execution models and runtimes." alt="" coords="169,5,344,31"/>
+<area shape="rect" id="node3" href="$group__bvector.html" title="The Main bvector&lt;&gt; Group bvector&lt;&gt; template: front end of the BitMagic library." alt="" coords="187,55,326,80"/>
+<area shape="rect" id="node4" href="$group__sv.html" title="Sparse vector for integer types using bit transposition transform." alt="" coords="178,104,335,159"/>
+<area shape="rect" id="node5" href="$group__svector.html" title="Sparse vector for integer types using bit transposition transform." alt="" coords="175,183,338,223"/>
+</map>

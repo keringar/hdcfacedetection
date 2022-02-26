@@ -1,0 +1,24 @@
+<map id="bmaggregator.h" name="bmaggregator.h">
+<area shape="rect" id="node1" title="Algorithms for fast aggregation of N bvectors." alt="" coords="2245,5,2357,32"/>
+<area shape="rect" id="node2" href="$bmsparsevec__algo_8h.html" title="Algorithms for bm::sparse_vector." alt="" coords="1170,80,1313,107"/>
+<area shape="rect" id="node18" href="$xsample07_8cpp.html" title="Example: Use of bvector&lt;&gt; for k&#45;mer fingerprint K should be short, no minimizers here." alt="" coords="2146,155,2257,181"/>
+<area shape="rect" id="node19" href="$xsample07a_8cpp.html" title="Example: Use of bvector&lt;&gt; for k&#45;mer fingerprint K should be short, no minimizers here (k &lt; 24)" alt="" coords="2281,155,2399,181"/>
+<area shape="rect" id="node20" href="$bvsetalgebra_8cpp.html" title="Example: algebra of sets operations." alt="" coords="2290,80,2411,107"/>
+<area shape="rect" id="node21" href="$sample16_8cpp.html" title="Example: how to use bm::aggregator&lt;&gt; for logical operations." alt="" coords="2435,80,2538,107"/>
+<area shape="rect" id="node22" href="$xsample04_8cpp.html" title="Example: DNA substring search." alt="" coords="2562,80,2673,107"/>
+<area shape="rect" id="node3" href="$inv__list_8cpp.html" title="Utility to compress test sets of inverted lists." alt="" coords="1259,155,1347,181"/>
+<area shape="rect" id="node4" href="$strsvsample02_8cpp.html" title="Example: str_sparse_vector&lt;&gt; insertion sort example." alt="" coords="1371,155,1503,181"/>
+<area shape="rect" id="node5" href="$strsvsample02a_8cpp.html" title="Example: str_sparse_vector&lt;&gt; sort example." alt="" coords="1528,155,1667,181"/>
+<area shape="rect" id="node6" href="$strsvsample06_8cpp.html" title="Example: Succinct container iterator for (substring), search, mismatch." alt="" coords="1691,155,1823,181"/>
+<area shape="rect" id="node7" href="$strsvsample07_8cpp.html" title="Example: Succinct container for strings, bulk search using scanner pipeline." alt="" coords="1847,155,1979,181"/>
+<area shape="rect" id="node8" href="$svsample05_8cpp.html" title="Example: sparse_vector&lt;&gt; used for set 2 set remapping (theory of groups Image)" alt="" coords="2004,155,2121,181"/>
+<area shape="rect" id="node9" href="$svsample06_8cpp.html" title="Example: sparse_vector&lt;&gt; scan search (non&#45;ordered set functionality)" alt="" coords="5,155,123,181"/>
+<area shape="rect" id="node10" href="$svsample07_8cpp.html" title="Example: sparse_vector&lt;&gt; lower bound search." alt="" coords="147,155,264,181"/>
+<area shape="rect" id="node11" href="$svsample07a_8cpp.html" title="Example: sparse_vector&lt;&gt; search." alt="" coords="287,155,411,181"/>
+<area shape="rect" id="node12" href="$svsample09_8cpp.html" title="Example: Use of sparse vector mismatch search." alt="" coords="436,155,553,181"/>
+<area shape="rect" id="node13" href="$svsample10_8cpp.html" title="Example: Succinct vector searches: GT, GE, LT, LE, RANGE[from..to]." alt="" coords="577,155,695,181"/>
+<area shape="rect" id="node14" href="$xsample01_8cpp.html" title="Example: Example: memory consumption techniques." alt="" coords="719,155,830,181"/>
+<area shape="rect" id="node15" href="$xsample03_8cpp.html" title="Example: SNP search in human genome." alt="" coords="854,155,965,181"/>
+<area shape="rect" id="node16" href="$xsample05_8cpp.html" title="Example: Example on how to use bit&#45;transposed string sparse vector." alt="" coords="989,155,1099,181"/>
+<area shape="rect" id="node17" href="$xsample06_8cpp.html" title="Example: Use of sparse vector for compressed DNA strings." alt="" coords="1123,155,1234,181"/>
+</map>

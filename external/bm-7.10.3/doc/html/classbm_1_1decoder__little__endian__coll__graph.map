@@ -1,0 +1,4 @@
+<map id="bm::decoder_little_endian" name="bm::decoder_little_endian">
+<area shape="rect" id="node1" title="Class for decoding data from memory buffer." alt="" coords="7,80,133,121"/>
+<area shape="rect" id="node2" href="$classbm_1_1decoder__base.html" title="Base class for all decoding functionality." alt="" coords="5,5,135,32"/>
+</map>

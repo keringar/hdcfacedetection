@@ -1,0 +1,5 @@
+<map id="bm::sparse_vector&lt; Val, BV &gt;" name="bm::sparse_vector&lt; Val, BV &gt;">
+<area shape="rect" id="node1" title="succinct sparse vector with runtime compression using bit&#45;slicing / transposition method" alt="" coords="19,200,157,241"/>
+<area shape="rect" id="node2" href="$classbm_1_1base__sparse__vector.html" title=" " alt="" coords="5,109,171,151"/>
+<area shape="rect" id="node3" href="$classbm_1_1base__sparse__vector.html" title="Base class for bit&#45;transposed(bit&#45;sliced) sparse vector construction." alt="" coords="5,5,171,47"/>
+</map>

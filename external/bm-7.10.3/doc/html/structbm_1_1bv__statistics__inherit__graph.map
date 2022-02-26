@@ -1,0 +1,7 @@
+<map id="bm::bv_statistics" name="bm::bv_statistics">
+<area shape="rect" id="node1" title="Structure with statistical information about memory allocation footprint, serialization projection,..." alt="" coords="5,111,128,138"/>
+<area shape="rect" id="node2" href="$structbm_1_1bvector_1_1statistics.html" title="Statistical information about bitset&#39;s memory allocation details." alt="" coords="205,5,337,47"/>
+<area shape="rect" id="node3" href="$structbm_1_1rsc__sparse__vector_1_1statistics.html" title=" " alt="" coords="193,71,348,112"/>
+<area shape="rect" id="node4" href="$structbm_1_1sparse__vector_1_1statistics.html" title=" " alt="" coords="199,136,343,177"/>
+<area shape="rect" id="node5" href="$structbm_1_1str__sparse__vector_1_1statistics.html" title=" " alt="" coords="176,202,365,258"/>
+</map>

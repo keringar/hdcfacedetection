@@ -1,0 +1,4 @@
+<map id="AVX2 functions" name="AVX2 functions">
+<area shape="rect" id="node1" title="Processor specific optimizations for AVX2 instructions (internals)" alt="" coords="192,5,305,31"/>
+<area shape="rect" id="node2" href="$group__bvector.html" title="The Main bvector&lt;&gt; Group bvector&lt;&gt; template: front end of the BitMagic library." alt="" coords="5,5,144,31"/>
+</map>

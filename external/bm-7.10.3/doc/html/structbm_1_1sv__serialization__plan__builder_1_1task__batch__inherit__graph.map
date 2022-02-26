@@ -1,0 +1,6 @@
+<map id="bm::sv_serialization_plan_builder&lt; SV &gt;::task_batch" name="bm::sv_serialization_plan_builder&lt; SV &gt;::task_batch">
+<area shape="rect" id="node1" title=" " alt="" coords="18,261,166,317"/>
+<area shape="rect" id="node2" href="$classbm_1_1task__batch.html" title=" " alt="" coords="5,171,179,212"/>
+<area shape="rect" id="node3" href="$classbm_1_1task__batch__base.html" title="Interface definition (base class) for a group of tasks (batch)" alt="" coords="13,5,160,32"/>
+<area shape="rect" id="node4" href="$classbm_1_1task__batch.html" title="Basic implementation for collection of tasks for parallel execution." alt="" coords="109,81,291,108"/>
+</map>

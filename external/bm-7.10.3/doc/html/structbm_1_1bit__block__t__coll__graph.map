@@ -1,0 +1,4 @@
+<map id="bm::bit_block_t" name="bm::bit_block_t">
+<area shape="rect" id="node1" title="bit&#45;block array wrapped into union for correct interpretation of 32&#45;bit vs 64&#45;bit access vs SIMD" alt="" coords="34,95,145,121"/>
+<area shape="rect" id="node2" href="$unionbm_1_1bit__block__t_1_1bunion__t.html" title=" " alt="" coords="5,5,173,32"/>
+</map>

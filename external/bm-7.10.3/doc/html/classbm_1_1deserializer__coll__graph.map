@@ -1,0 +1,7 @@
+<map id="bm::deserializer&lt; BV, DEC &gt;" name="bm::deserializer&lt; BV, DEC &gt;">
+<area shape="rect" id="node1" title="Deserializer for bit&#45;vector." alt="" coords="632,79,780,121"/>
+<area shape="rect" id="node2" href="$classbm_1_1deseriaizer__base.html" title=" " alt="" coords="355,7,507,63"/>
+<area shape="rect" id="node3" href="$classbm_1_1deseriaizer__base.html" title="Base deserialization class." alt="" coords="5,14,164,55"/>
+<area shape="rect" id="node4" href="$classbm_1_1bv__ref__vector.html" title="List of reference bit&#45;vectors with their true index associations." alt="" coords="347,87,516,113"/>
+<area shape="rect" id="node5" href="$structbm_1_1match__pair.html" title="XOR match pair." alt="" coords="375,137,487,164"/>
+</map>

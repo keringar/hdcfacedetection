@@ -1,0 +1,6 @@
+<map id="bm::gap_transpose_engine&lt; GT, BT, BLOCK_SIZE &gt;" name="bm::gap_transpose_engine&lt; GT, BT, BLOCK_SIZE &gt;">
+<area shape="rect" id="node1" title="Bit&#45;plane splicing of a GAP block." alt="" coords="1028,43,1207,85"/>
+<area shape="rect" id="node2" href="$structbm_1_1tmatrix.html" title=" " alt="" coords="696,21,928,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,39,69,65"/>
+<area shape="rect" id="node4" href="$structbm_1_1tmatrix.html" title="Mini&#45;matrix for bit transposition purposes." alt="" coords="275,78,437,119"/>
+</map>

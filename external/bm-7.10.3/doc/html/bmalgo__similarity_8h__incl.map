@@ -1,0 +1,19 @@
+<map id="bmalgo_similarity.h" name="bmalgo_similarity.h">
+<area shape="rect" id="node1" title=" " alt="" coords="215,5,350,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="105,80,183,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="208,80,267,107"/>
+<area shape="rect" id="node5" href="$bmfunc_8h.html" title="Bit manipulation primitives (internal)" alt="" coords="291,80,367,107"/>
+<area shape="rect" id="node8" href="$bmdef_8h.html" title="Definitions(internal)" alt="" coords="447,229,516,256"/>
+<area shape="rect" id="node17" href="$bmalgo__impl_8h.html" title="Algorithms for bvector&lt;&gt;" alt="" coords="392,80,499,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="117,155,197,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="221,155,304,181"/>
+<area shape="rect" id="node12" href="$bmutil_8h.html" title="Bit manipulation primitives (internal)" alt="" coords="329,155,397,181"/>
+<area shape="rect" id="node9" title=" " alt="" coords="365,304,425,331"/>
+<area shape="rect" id="node10" title=" " alt="" coords="449,304,514,331"/>
+<area shape="rect" id="node11" title=" " alt="" coords="538,304,603,331"/>
+<area shape="rect" id="node13" href="$bmconst_8h.html" title="Constants, lookup tables and typedefs." alt="" coords="216,229,299,256"/>
+<area shape="rect" id="node16" title=" " alt="" coords="323,229,413,256"/>
+<area shape="rect" id="node14" title=" " alt="" coords="159,304,220,331"/>
+<area shape="rect" id="node15" title=" " alt="" coords="245,304,323,331"/>
+</map>

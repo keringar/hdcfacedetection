@@ -1,0 +1,5 @@
+<map id="bm::str_sparse_vector&lt; CharType, BV, STR_SIZE &gt;" name="bm::str_sparse_vector&lt; CharType, BV, STR_SIZE &gt;">
+<area shape="rect" id="node1" title="succinct sparse vector for strings with compression using bit&#45;slicing ( transposition) method" alt="" coords="5,215,207,256"/>
+<area shape="rect" id="node2" href="$classbm_1_1base__sparse__vector.html" title=" " alt="" coords="5,124,207,165"/>
+<area shape="rect" id="node3" href="$classbm_1_1base__sparse__vector.html" title="Base class for bit&#45;transposed(bit&#45;sliced) sparse vector construction." alt="" coords="23,5,189,47"/>
+</map>

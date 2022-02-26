@@ -1,0 +1,15 @@
+<map id="bmsimd.h" name="bmsimd.h">
+<area shape="rect" id="node1" title="SIMD target version definitions." alt="" coords="158,5,237,32"/>
+<area shape="rect" id="node2" href="$bmavx2_8h.html" title=" " alt="" coords="158,80,237,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,229,96,256"/>
+<area shape="rect" id="node4" title=" " alt="" coords="53,155,139,181"/>
+<area shape="rect" id="node5" href="$bmdef_8h.html" title="Definitions(internal)" alt="" coords="337,229,407,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="255,155,334,181"/>
+<area shape="rect" id="node10" href="$bmutil_8h.html" title="Bit manipulation primitives (internal)" alt="" coords="163,155,231,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="342,304,402,331"/>
+<area shape="rect" id="node7" title=" " alt="" coords="426,304,491,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="253,304,318,331"/>
+<area shape="rect" id="node11" href="$bmconst_8h.html" title="Constants, lookup tables and typedefs." alt="" coords="156,229,239,256"/>
+<area shape="rect" id="node12" title=" " alt="" coords="167,304,228,331"/>
+<area shape="rect" id="node13" title=" " alt="" coords="63,304,142,331"/>
+</map>

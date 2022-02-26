@@ -1,0 +1,4 @@
+<map id="bm::bvector&lt; Alloc &gt;::bulk_insert_iterator" name="bm::bvector&lt; Alloc &gt;::bulk_insert_iterator">
+<area shape="rect" id="node1" title="Output iterator iterator designed to set &quot;ON&quot; bits based on input sequence of integers." alt="" coords="5,95,157,136"/>
+<area shape="rect" id="node2" href="$classbm_1_1bvector.html" title="Bitvector Bit&#45;vector container with runtime compression of bits." alt="" coords="9,5,153,32"/>
+</map>

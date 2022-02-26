@@ -1,0 +1,6 @@
+<map id="bm::optimize_plan_builder&lt; SVect, Lock &gt;::task_batch" name="bm::optimize_plan_builder&lt; SVect, Lock &gt;::task_batch">
+<area shape="rect" id="node1" title=" " alt="" coords="5,261,196,303"/>
+<area shape="rect" id="node2" href="$classbm_1_1task__batch.html" title=" " alt="" coords="14,171,187,212"/>
+<area shape="rect" id="node3" href="$classbm_1_1task__batch__base.html" title="Interface definition (base class) for a group of tasks (batch)" alt="" coords="22,5,169,32"/>
+<area shape="rect" id="node4" href="$classbm_1_1task__batch.html" title="Basic implementation for collection of tasks for parallel execution." alt="" coords="117,81,300,108"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="bmsparsevec_serial.h" name="bmsparsevec_serial.h">
+<area shape="rect" id="node1" title="Serialization for sparse_vector&lt;&gt;" alt="" coords="885,5,1034,32"/>
+<area shape="rect" id="node2" href="$bmsparsevec__parallel_8h.html" title="Parallel planner for operations with sparse vectors." alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node3" href="$inv__list_8cpp.html" title="Utility to compress test sets of inverted lists." alt="" coords="189,80,277,107"/>
+<area shape="rect" id="node4" href="$rscsample01_8cpp.html" title="Example: rsc_sparse_vector&lt;&gt; usage." alt="" coords="301,80,423,107"/>
+<area shape="rect" id="node5" href="$rscsample02_8cpp.html" title="Example: rsc_sparse_vector&lt;&gt; selective and range de&#45;serialization." alt="" coords="447,80,568,107"/>
+<area shape="rect" id="node6" href="$rscsample05_8cpp.html" title="Example: collaborative compression (XOR compression)" alt="" coords="592,80,713,107"/>
+<area shape="rect" id="node7" href="$strsvsample03_8cpp.html" title="Example: str_sparse_vector&lt;&gt; back insert iterator example." alt="" coords="737,80,869,107"/>
+<area shape="rect" id="node8" href="$strsvsample05_8cpp.html" title="Example: str_sparse_vector&lt;&gt; gather deserialization example." alt="" coords="893,80,1025,107"/>
+<area shape="rect" id="node9" href="$svsample02_8cpp.html" title="Example: sparse_vector&lt;&gt; serialization." alt="" coords="1050,80,1167,107"/>
+<area shape="rect" id="node10" href="$svsample08_8cpp.html" title="Example: sparse_vector&lt;&gt; selective de&#45;serialization (gather) and range deserialization." alt="" coords="1191,80,1309,107"/>
+<area shape="rect" id="node11" href="$xsample01_8cpp.html" title="Example: Example: memory consumption techniques." alt="" coords="1333,80,1444,107"/>
+<area shape="rect" id="node12" href="$xsample03_8cpp.html" title="Example: SNP search in human genome." alt="" coords="1468,80,1579,107"/>
+<area shape="rect" id="node13" href="$xsample05_8cpp.html" title="Example: Example on how to use bit&#45;transposed string sparse vector." alt="" coords="1603,80,1713,107"/>
+<area shape="rect" id="node14" href="$xsample06_8cpp.html" title="Example: Use of sparse vector for compressed DNA strings." alt="" coords="1737,80,1848,107"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="bvector&lt;&gt; container" name="bvector&lt;&gt; container">
+<area shape="rect" id="node1" href="$group__AVX2.html" title="Processor specific optimizations for AVX2 instructions (internals)" alt="" coords="377,5,490,31"/>
+<area shape="rect" id="node2" href="$group__alloc.html" title=" " alt="" coords="397,55,470,80"/>
+<area shape="rect" id="node3" href="$group__bm3VL.html" title="Functions for three&#45;valued logic (Kleene) https://en.wikipedia.org/wiki/Three&#45;valued_logic." alt="" coords="371,104,495,129"/>
+<area shape="rect" id="node4" href="$group__bmagic.html" title="BitMagic C++ Library For more information please visit: http://bitmagic.io." alt="" coords="5,193,121,219"/>
+<area shape="rect" id="node5" title="The Main bvector&lt;&gt; Group bvector&lt;&gt; template: front end of the BitMagic library." alt="" coords="169,193,308,219"/>
+<area shape="rect" id="node6" href="$group__bvimport.html" title=" " alt="" coords="357,154,509,194"/>
+<area shape="rect" id="node7" href="$group__bvintervals.html" title="Algorithms and iterators for bit ranges and intervals." alt="" coords="373,218,494,258"/>
+<area shape="rect" id="node8" href="$group__bvit.html" title="Iterators for compressed bit&#45;vector traversal." alt="" coords="367,283,499,308"/>
+<area shape="rect" id="node9" href="$group__bvserial.html" title=" " alt="" coords="356,332,511,357"/>
+<area shape="rect" id="node10" href="$group__setalgo.html" title=" " alt="" coords="361,381,506,407"/>
+</map>

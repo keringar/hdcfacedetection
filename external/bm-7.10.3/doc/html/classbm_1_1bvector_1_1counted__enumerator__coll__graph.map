@@ -1,0 +1,8 @@
+<map id="bm::bvector&lt; Alloc &gt;::counted_enumerator" name="bm::bvector&lt; Alloc &gt;::counted_enumerator">
+<area shape="rect" id="node1" title="Constant iterator designed to enumerate &quot;ON&quot; bits counted_enumerator keeps bitcount,..." alt="" coords="952,39,1112,80"/>
+<area shape="rect" id="node2" href="$classbm_1_1bvector_1_1enumerator.html" title="Constant iterator designed to enumerate &quot;ON&quot; bits." alt="" coords="771,39,903,80"/>
+<area shape="rect" id="node3" href="$classbm_1_1bvector_1_1iterator__base.html" title="Base class for all iterators." alt="" coords="589,39,721,80"/>
+<area shape="rect" id="node4" href="$unionbm_1_1bvector_1_1iterator__base_1_1block__descr.html" title=" " alt="" coords="296,39,491,80"/>
+<area shape="rect" id="node5" href="$structbm_1_1bvector_1_1iterator__base_1_1bitblock__descr.html" title="Bit&#45;block descriptor." alt="" coords="5,5,215,47"/>
+<area shape="rect" id="node6" href="$structbm_1_1bvector_1_1iterator__base_1_1dgap__descr.html" title="Information about current DGAP block." alt="" coords="14,71,206,112"/>
+</map>

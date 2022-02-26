@@ -1,0 +1,5 @@
+<map id="bm::aggregator&lt; BV &gt;::pipeline&lt; Opt &gt;" name="bm::aggregator&lt; BV &gt;::pipeline&lt; Opt &gt;">
+<area shape="rect" id="node1" title="Pipeline vector for running a group of aggregation operations on a family of vectors." alt="" coords="87,109,225,151"/>
+<area shape="rect" id="node2" href="$structbm_1_1aggregator_1_1run__options.html" title="Aggregation options for runtime control." alt="" coords="5,5,144,47"/>
+<area shape="rect" id="node3" href="$structbm_1_1aggregator_1_1pipeline__bcache.html" title="Block cache for pipeline execution." alt="" coords="168,5,307,47"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="bmsimd.h" name="bmsimd.h">
+<area shape="rect" id="node1" title="SIMD target version definitions." alt="" coords="2991,5,3069,32"/>
+<area shape="rect" id="node2" href="$bm_8h.html" title="Compressed bit&#45;vector bvector&lt;&gt; container, set algebraic methods, traversal iterators." alt="" coords="3005,80,3055,107"/>
+<area shape="rect" id="node3" href="$bm3vl_8h.html" title="Three&#45;valued logic (3VL) operations." alt="" coords="5,155,73,181"/>
+<area shape="rect" id="node4" href="$bv3vlogic_8cpp.html" title="Example: Kleene algebra operations." alt="" coords="24,229,127,256"/>
+<area shape="rect" id="node5" href="$bmbmatrix_8h.html" title="basic bit&#45;matrix class and utilities" alt="" coords="149,155,244,181"/>
+<area shape="rect" id="node6" href="$bvsetalgebra_8cpp.html" title="Example: algebra of sets operations." alt="" coords="268,155,389,181"/>
+<area shape="rect" id="node7" href="$inv__list_8cpp.html" title="Utility to compress test sets of inverted lists." alt="" coords="414,155,502,181"/>
+<area shape="rect" id="node8" href="$rscsample01_8cpp.html" title="Example: rsc_sparse_vector&lt;&gt; usage." alt="" coords="527,155,648,181"/>
+<area shape="rect" id="node9" href="$rscsample02_8cpp.html" title="Example: rsc_sparse_vector&lt;&gt; selective and range de&#45;serialization." alt="" coords="672,155,793,181"/>
+<area shape="rect" id="node10" href="$rscsample03_8cpp.html" title="Example: bm::rsc_sparse_vector&lt;&gt;::const_iterator." alt="" coords="817,155,939,181"/>
+<area shape="rect" id="node11" href="$rscsample04_8cpp.html" title="Example: bm::rsc_sparse_vector&lt;&gt; known NULL elements access." alt="" coords="963,155,1084,181"/>
+<area shape="rect" id="node12" href="$rscsample05_8cpp.html" title="Example: collaborative compression (XOR compression)" alt="" coords="1108,155,1229,181"/>
+<area shape="rect" id="node13" href="$rscsample06_8cpp.html" title="Example: bm::rsc_sparse_vector&lt;&gt;::gather." alt="" coords="1253,155,1375,181"/>
+<area shape="rect" id="node14" href="$sample1_8cpp.html" title="Example: bvector&lt;&gt; set bits and then retrieve indexes of ON bits." alt="" coords="1399,155,1495,181"/>
+<area shape="rect" id="node15" href="$sample10_8cpp.html" title="Example: bvector&lt;&gt; generation of random sub&#45;set." alt="" coords="1520,155,1623,181"/>
+<area shape="rect" id="node16" href="$sample11_8cpp.html" title="Example: bvector&lt;&gt; bit&#45;counting techniques analysis." alt="" coords="1647,155,1749,181"/>
+<area shape="rect" id="node17" href="$sample12_8cpp.html" title="Example: bvector&lt;&gt; analysis of bit setting methods." alt="" coords="1773,155,1876,181"/>
+<area shape="rect" id="node18" href="$sample14_8cpp.html" title="Example: bvector&lt;&gt; set operations on serialized/compressed BLOBs." alt="" coords="1900,155,2003,181"/>
+<area shape="rect" id="node19" href="$sample15_8cpp.html" title="Example: bvector&lt;&gt; methods to find last bit and bit&#45;vectors effective range." alt="" coords="2027,155,2129,181"/>
+<area shape="rect" id="node20" href="$sample16_8cpp.html" title="Example: how to use bm::aggregator&lt;&gt; for logical operations." alt="" coords="2153,155,2256,181"/>
+<area shape="rect" id="node21" href="$sample17_8cpp.html" title="Example: rank and select operations using rank&#45;select index." alt="" coords="2280,155,2383,181"/>
+<area shape="rect" id="node22" href="$sample18_8cpp.html" title="Example: bulk insert iterator." alt="" coords="2407,155,2509,181"/>
+<area shape="rect" id="node23" href="$sample18a_8cpp.html" title="Example: import from an external bit&#45;stream." alt="" coords="2533,155,2644,181"/>
+<area shape="rect" id="node24" href="$sample19_8cpp.html" title="Example: bit&#45;vector merge." alt="" coords="2668,155,2771,181"/>
+<area shape="rect" id="node25" href="$sample2_8cpp.html" title="Example: bvector&lt;&gt; set algebra operations AND, OR, XOR, etc." alt="" coords="2795,155,2891,181"/>
+<area shape="rect" id="node26" href="$sample20_8cpp.html" title="Example: bvector&lt;&gt; &#45; bit&#45;shifts." alt="" coords="2916,155,3019,181"/>
+<area shape="rect" id="node27" href="$sample21_8cpp.html" title="Example: bvector&lt;&gt; &#45; bit&#45;shifts." alt="" coords="3043,155,3145,181"/>
+<area shape="rect" id="node28" href="$sample22_8cpp.html" title="Example: bvector&lt;&gt; &#45; ranges and intervals functions." alt="" coords="3169,155,3272,181"/>
+<area shape="rect" id="node29" href="$sample23_8cpp.html" title="Example: interval_enumerator&lt;&gt; &#45; interator class for intervals." alt="" coords="3296,155,3399,181"/>
+<area shape="rect" id="node30" href="$sample24_8cpp.html" title="Example: demo for bm::rank_range_split." alt="" coords="3423,155,3525,181"/>
+<area shape="rect" id="node31" href="$sample25_8cpp.html" title="Example: demo for bit&#45;vector traversal techniques." alt="" coords="3549,155,3652,181"/>
+<area shape="rect" id="node32" href="$sample26_8cpp.html" title="Example: bvector&lt;&gt; with immutability (read&#45;only)" alt="" coords="3676,155,3779,181"/>
+<area shape="rect" id="node33" href="$sample3_8cpp.html" title="Example: bvector&lt;&gt; with different allocation/compression strategies." alt="" coords="3803,155,3899,181"/>
+<area shape="rect" id="node34" href="$sample4_8cpp.html" title="Example: bvector&lt;&gt; serialization/deserialization." alt="" coords="3923,155,4019,181"/>
+<area shape="rect" id="node35" href="$sample5_8cpp.html" title="Example: bvector&lt;&gt;::enumerator use." alt="" coords="4043,155,4139,181"/>
+<area shape="rect" id="node36" href="$sample6_8cpp.html" title="Example: bvector&lt;&gt; custom memory allocator." alt="" coords="4163,155,4259,181"/>
+<area shape="rect" id="node37" href="$sample7_8cpp.html" title="Example: set operations between bvector&lt;&gt; and arrays of integers." alt="" coords="4283,155,4379,181"/>
+<area shape="rect" id="node38" href="$sample8_8cpp.html" title="Example: bvector&lt;&gt; &#45; STL interoperability." alt="" coords="4403,155,4499,181"/>
+<area shape="rect" id="node39" href="$sample9_8cpp.html" title="Example: bvector&lt;&gt; binary similarity / distance algorithms." alt="" coords="4523,155,4619,181"/>
+<area shape="rect" id="node40" href="$strsvsample01_8cpp.html" title="Example: str_sparse_vector&lt;&gt; set values, optimize memory." alt="" coords="4644,155,4776,181"/>
+<area shape="rect" id="node41" href="$strsvsample02_8cpp.html" title="Example: str_sparse_vector&lt;&gt; insertion sort example." alt="" coords="4800,155,4932,181"/>
+<area shape="rect" id="node42" href="$strsvsample02a_8cpp.html" title="Example: str_sparse_vector&lt;&gt; sort example." alt="" coords="4957,155,5095,181"/>
+<area shape="rect" id="node43" href="$strsvsample03_8cpp.html" title="Example: str_sparse_vector&lt;&gt; back insert iterator example." alt="" coords="5120,155,5252,181"/>
+<area shape="rect" id="node44" href="$strsvsample04_8cpp.html" title="Example: str_sparse_vector&lt;&gt; how to work with NULL values." alt="" coords="5276,155,5408,181"/>
+<area shape="rect" id="node45" href="$strsvsample05_8cpp.html" title="Example: str_sparse_vector&lt;&gt; gather deserialization example." alt="" coords="5432,155,5564,181"/>
+<area shape="rect" id="node46" href="$strsvsample06_8cpp.html" title="Example: Succinct container iterator for (substring), search, mismatch." alt="" coords="5588,155,5720,181"/>
+<area shape="rect" id="node47" href="$strsvsample07_8cpp.html" title="Example: Succinct container for strings, bulk search using scanner pipeline." alt="" coords="5744,155,5876,181"/>
+<area shape="rect" id="node48" href="$svsample01_8cpp.html" title="Example: sparse_vector&lt;&gt; container set values." alt="" coords="5901,155,6018,181"/>
+<area shape="rect" id="node49" href="$svsample02_8cpp.html" title="Example: sparse_vector&lt;&gt; serialization." alt="" coords="6042,155,6159,181"/>
+<area shape="rect" id="node50" href="$svsample03_8cpp.html" title="Example: sparse_vector&lt;&gt; merge and fast extraction of content." alt="" coords="6183,155,6301,181"/>
+</map>

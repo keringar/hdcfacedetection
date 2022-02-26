@@ -1,0 +1,8 @@
+<map id="bm::task_batch&lt; BVAlloc &gt;" name="bm::task_batch&lt; BVAlloc &gt;">
+<area shape="rect" id="node1" title="Basic implementation for collection of tasks for parallel execution." alt="" coords="201,78,384,105"/>
+<area shape="rect" id="node3" href="$classbm_1_1task__batch.html" title=" " alt="" coords="541,71,715,112"/>
+<area shape="rect" id="node2" href="$classbm_1_1task__batch__base.html" title="Interface definition (base class) for a group of tasks (batch)" alt="" coords="5,78,152,105"/>
+<area shape="rect" id="node4" href="$structbm_1_1compute__sim__matrix__plan__builder_1_1task__batch.html" title=" " alt="" coords="764,5,976,47"/>
+<area shape="rect" id="node5" href="$structbm_1_1optimize__plan__builder_1_1task__batch.html" title=" " alt="" coords="775,71,965,112"/>
+<area shape="rect" id="node6" href="$structbm_1_1sv__serialization__plan__builder_1_1task__batch.html" title=" " alt="" coords="796,137,944,193"/>
+</map>

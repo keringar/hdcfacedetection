@@ -1,0 +1,6 @@
+<map id="bm::sv_serialization_plan_builder&lt; SV &gt;" name="bm::sv_serialization_plan_builder&lt; SV &gt;">
+<area shape="rect" id="node1" title="Parallel plan builder for succinct sparse vector serialization." alt="" coords="119,213,259,255"/>
+<area shape="rect" id="node2" href="$structbm_1_1sv__serialization__plan__builder_1_1serialization__params.html" title=" " alt="" coords="115,95,263,151"/>
+<area shape="rect" id="node3" href="$classbm_1_1bv__ref__vector.html" title="List of reference bit&#45;vectors with their true index associations." alt="" coords="5,5,175,32"/>
+<area shape="rect" id="node4" href="$structbm_1_1xor__sim__model.html" title="XOR similarity model." alt="" coords="199,5,378,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="sparse_vect_index" name="sparse_vect_index">
+<area shape="rect" id="node1" title=" " alt="" coords="51,492,181,519"/>
+<area shape="rect" id="node2" href="$classbm_1_1sparse__vector.html" title=" " alt="" coords="25,373,207,415"/>
+<area shape="rect" id="node3" href="$classbm_1_1base__sparse__vector.html" title=" " alt="" coords="5,189,171,245"/>
+<area shape="rect" id="node4" href="$classbm_1_1base__sparse__vector.html" title="Base class for bit&#45;transposed(bit&#45;sliced) sparse vector construction." alt="" coords="91,5,256,47"/>
+<area shape="rect" id="node6" href="$classbm_1_1base__sparse__vector.html" title=" " alt="" coords="151,124,316,165"/>
+<area shape="rect" id="node5" href="$classbm_1_1sparse__vector.html" title="succinct sparse vector with runtime compression using bit&#45;slicing / transposition method" alt="" coords="140,269,279,311"/>
+</map>

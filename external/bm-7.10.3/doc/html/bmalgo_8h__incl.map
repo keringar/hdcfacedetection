@@ -1,0 +1,16 @@
+<map id="bmalgo.h" name="bmalgo.h">
+<area shape="rect" id="node1" title="Algorithms for bvector&lt;&gt; (main include)" alt="" coords="296,5,371,32"/>
+<area shape="rect" id="node2" href="$bmfunc_8h.html" title="Bit manipulation primitives (internal)" alt="" coords="179,80,255,107"/>
+<area shape="rect" id="node5" href="$bmdef_8h.html" title="Definitions(internal)" alt="" coords="335,229,404,256"/>
+<area shape="rect" id="node14" href="$bmalgo__impl_8h.html" title="Algorithms for bvector&lt;&gt;" alt="" coords="280,80,387,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,155,85,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="109,155,192,181"/>
+<area shape="rect" id="node9" href="$bmutil_8h.html" title="Bit manipulation primitives (internal)" alt="" coords="217,155,285,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="253,304,313,331"/>
+<area shape="rect" id="node7" title=" " alt="" coords="337,304,402,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="426,304,491,331"/>
+<area shape="rect" id="node10" href="$bmconst_8h.html" title="Constants, lookup tables and typedefs." alt="" coords="104,229,187,256"/>
+<area shape="rect" id="node13" title=" " alt="" coords="211,229,301,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="47,304,108,331"/>
+<area shape="rect" id="node12" title=" " alt="" coords="133,304,211,331"/>
+</map>

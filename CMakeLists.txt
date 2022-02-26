@@ -86,6 +86,8 @@ add_executable(HDC
 
 target_include_directories(HDC PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}/include
+    external/bm-7.10.3/src
+    include/
 )
 
 target_link_libraries(HDC PRIVATE
@@ -104,3 +106,33 @@ copy_dlls_for_debug(HDC "" "") # Copy dependencies next to the executable (DLLs 
 
 # Setup our project as the startup project for Visual so that people don't need to do it manually
 set_directory_properties(PROPERTIES VS_STARTUP_PROJECT HDC)
+
+#==========================#
+#  AntiTheft executable  #
+#==========================#
+
+# Always list the source files explicitly, including headers so that they are listed in the IDE
+# If you need to use files based on a variable value, use target_sources
+add_executable(AntiTheft
+    src/AntiTheft.cpp
+)
+
+target_include_directories(AntiTheft PRIVATE
+    ${CMAKE_CURRENT_SOURCE_DIR}/include
+    external/bm-7.10.3/src
+    include/
+)
+
+target_link_libraries(AntiTheft PRIVATE
+    fmt::fmt
+    spdlog::spdlog
+    dlib::dlib
+)
+
+# Require c++17, this is better than setting CMAKE_CXX_STANDARD since it won't pollute other targets
+target_compile_features(AntiTheft PRIVATE cxx_std_17)
+
+# CMake scripts extensions
+target_set_warnings(AntiTheft ENABLE ALL DISABLE Annoying) # Helper that can set default warning flags for you
+target_enable_lto(AntiTheft optimized) #enable lto if available for non-debug configurations
+copy_dlls_for_debug(AntiTheft "" "") # Copy dependencies next to the executable (DLLs for example)
