@@ -4,7 +4,7 @@
 #   - ENABLE_WARNINGS_SETTINGS
 #   - ENABLE_LTO
 #
-cmake_minimum_required(VERSION 3.18)
+cmake_minimum_required(VERSION 3.16)
 
 if(CMAKE_SOURCE_DIR STREQUAL CMAKE_BINARY_DIR)
     message(FATAL_ERROR "Do not build in-source. Please remove CMakeCache.txt and the CMakeFiles/ directory. Then build out-of-source.")
@@ -74,6 +74,9 @@ find_lto(CXX)
 
 find_package(PkgConfig REQUIRED)
 
+find_package(raspicam REQUIRED)
+find_package(OpenCV REQUIRED)
+
 #==========================#
 #  Main executable  #
 #==========================#
@@ -127,6 +130,8 @@ target_link_libraries(AntiTheft PRIVATE
     fmt::fmt
     spdlog::spdlog
     dlib::dlib
+    ${raspicam_CV_LIBS}
+    wiringPi
 )
 
 # Require c++17, this is better than setting CMAKE_CXX_STANDARD since it won't pollute other targets
