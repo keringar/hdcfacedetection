@@ -143,8 +143,8 @@ int main(int argc, char* argv[]) {
 
   //set camera params
   // Camera is 3280 x 2464 pixels
-  Camera.set( CV_CAP_PROP_FRAME_WIDTH, 1920);
-  Camera.set( CV_CAP_PROP_FRAME_HEIGHT, 1080);
+  // Camera.set( CV_CAP_PROP_FRAME_WIDTH, 1920);
+  // Camera.set( CV_CAP_PROP_FRAME_HEIGHT, 1080);
   Camera.set( CV_CAP_PROP_FORMAT, CV_8UC3 );
   //Open camera
   cout<<"Opening Camera..."<<endl;
