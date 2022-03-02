@@ -19,9 +19,15 @@ Install OpenCV and WiringPi on the latest version of Raspbian 10 (buster).
 
 Build and run the training program with:
 
-`cmake -S . -B build && cmake --build build --target HDC --config Release && ./build/HDC ./shape_predictor_68_face_landmarks.dat ./images_rider ./images_not_rider`
+```
+$ cmake -S . -B build && cmake --build build --target HDC --config Release
+$ ./build/HDC ./shape_predictor_68_face_landmarks.dat ./images_rider ./images_not_rider
+```
 
 Copy the `trained_model.txt` file to the Raspberry Pi and build and run the embedded AntiTheft program with:
 
-`cmake -S . -B build && cmake --build build --target AntiTheft --config Release && ./build/AntiTheft ./shape_predictor_68_face_landmarks.dat ./random_seed_vectors ./trained_model.txt`
+```
+cmake -S . -B build && cmake --build build --target AntiTheft --config Release
+./build/AntiTheft ./shape_predictor_68_face_landmarks.dat ./random_seed_vectors ./trained_model.txt
+```
 
